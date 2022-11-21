@@ -2,12 +2,12 @@
 
 ## Desafío: Motores de Plantillas
 
-| Desafios en Etapas
+> Desafios en Etapas
 
 ```
-- [x] :+1: ** Desafio Motor de Plantilla en EJS **
-- [x] :+1: ** Desafio Motor de Plantilla en HBS **
-- [x] :+1: ** Desafio Motor de Plantilla en PUG **
+- [x] ✅ ** Desafio Motor de Plantilla en EJS **
+- [x] ✅ ** Desafio Motor de Plantilla en HBS **
+- [x] ✅ ** Desafio Motor de Plantilla en PUG **
 
 ```
 
