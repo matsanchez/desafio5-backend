@@ -5,9 +5,9 @@
 > Desafios en Etapas
 
 ```
-- [x] ✅ **Desafio Motor de Plantilla en EJS**
-- [x] ✅ **Desafio Motor de Plantilla en HBS**
-- [x] ✅ **Desafio Motor de Plantilla en PUG**
+- [x] ✅ __Desafio Motor de Plantilla en EJS__
+- [x] ✅ __Desafio Motor de Plantilla en HBS__
+- [x] ✅ __Desafio Motor de Plantilla en PUG__
 
 ```
 
