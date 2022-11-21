@@ -2,8 +2,13 @@
 
 ## Desafío: Motores de Plantillas
 
-[ejsengine] <<<<<Contiene Desafio Motor de Plantilla en EJS>>>>>
-[pugengine] <<<<<Contiene Desafio Motor de Plantilla en PUG>>>>>
-[hbsengine] <<<<<Contiene Desafio Motor de Plantilla en HBS>>>>>
+| Desafios en Etapas
+
+```
+- [x] :+1:** Desafio Motor de Plantilla en EJS **
+- [x] :+1:** Desafio Motor de Plantilla en HBS **
+- [x] :+1:** Desafio Motor de Plantilla en PUG **
+
+```
 
 Autor: Matias Sanchez
